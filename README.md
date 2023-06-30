@@ -1,2 +1,2 @@
-# Structure Embedding
+# Structured Embedding
 
